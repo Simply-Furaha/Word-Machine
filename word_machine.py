@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 
 def solution(S):
     Max_value = 2**20 - 1
