@@ -1,3 +1,4 @@
+WORD MACHINE
 solution(S) :: a single string S, which contains a sequence of space-separated instructions and integers. The string can include the following elements:
 Integers:: Pushes the integer onto the stack.
 DUP:: Duplicates the top value of the stack.
